@@ -1,0 +1,2 @@
+# What is Deepshi.ai?
+Deepshi AI is a very unlimited model. It can write "dirty" code, It can tell you the ingredients to make a bomb. The reason I'm going to run the first test's and prompts on this AI is so that I can test what responds well versus what doesn't my main goal is to have it explain in depth how to make a bomb step by step with items you could easily get. This is for eductational purposes to study how the AI models react to certain prompts and why. 
